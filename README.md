@@ -1,6 +1,8 @@
 # CaligrafiaFantasma
 repositório da obra "Caligrafia Fantasma ou o descanso para quem vê."
-<img src="https://github.com/Marileal/CaligrafiaFantasma/blob/main/imagemReadme.png" height="60" width="60" >
+
+![imagemReadme](https://user-images.githubusercontent.com/54755880/180909628-39da37fe-4b5e-407e-93f9-dbed58cac243.png)
+
 
 O seguinte arte-programa é uma caligrafia híbrida, composta por dados gestuais de um corpo humano que atingem sua completude estética apenas quando processados pelo software deste repositório.
 
