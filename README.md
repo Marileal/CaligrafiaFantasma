@@ -1,5 +1,5 @@
 # CaligrafiaFantasma
-repositório da obra "Caligrafia Fantasma ou o descanso para quem vê."
+repositório da obra "Caligrafia Fantasma"
 
 ![imagemReadme](https://user-images.githubusercontent.com/54755880/180909628-39da37fe-4b5e-407e-93f9-dbed58cac243.png)
 
